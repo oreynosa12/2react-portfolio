@@ -2,21 +2,20 @@
 
 ## Description
 
-This application was created to allow a potential employer to view a deployed react portfolio showing samples of my past work so can decide if they would like to offer an open position. This will allow me to show case my work and skills.
+This application was created to allow a potential employer to view a deployed react portfolio showing samples of my past work so can decide if they would like to offer an open position. This will allow me to showcase my work and skills.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+To install the application you will need to clone the repository by using the URL code, once cloned enter npm install followed by npm start.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+This application can be used to showcase your coding skills to potential employers and to provide them with more of your background information.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+https://github.com/oreynosa12/2react-portfolio.git
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+
+https://oreynosa12.github.io/2react-portfolio/
 
 ## Credits
 
