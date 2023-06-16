@@ -61,3 +61,34 @@ export const skills = [
   "GraphQL",
   
 ];
+
+export const resume = [{
+  
+company: "ABC Systems Inc.",
+date: '05-10-2005 / 09-01-2010',
+
+},
+{
+company: "FirstAm LLC",
+date: '09-10-2010 / 09-01-2015',
+},
+{
+company: "Twin Peaks LLC",
+date: '09-10-2015 / 09-01-2020',
+},
+
+{
+company: "First National Corporation",
+date: '09-10-2020 / Present',
+},
+{
+school: "Twin Peaks High School",
+degree: 'High School Diploma',
+},
+{
+school: "USBC",
+degree: 'Accounting Certification',
+},
+
+
+];

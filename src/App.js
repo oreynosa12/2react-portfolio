@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import Testimonials from "./components/Testimonials";
+import Resume from "./components/Resume";
 import { useState } from "react";
 import { render } from "react-dom";
 
@@ -25,6 +26,9 @@ export default function App() {
     }
     if (current === 'contact'){
       return<Contact/>
+    }
+    if (current === 'resume'){
+      return<Resume/>
     }
 
     

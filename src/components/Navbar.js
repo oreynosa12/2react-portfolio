@@ -20,6 +20,9 @@ export default function Navbar({setCurrent}) {
           <button  onClick={()=>setCurrent ('testimonials')} className="mr-5 hover:text-white">
             Testimonials
           </button>
+          <button  onClick={()=>setCurrent ('resume')} className="mr-5 hover:text-white">
+            Resume
+          </button>
         </nav>
         <button
           onClick={()=>setCurrent('contact')}
