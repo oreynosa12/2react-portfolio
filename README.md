@@ -4,6 +4,8 @@
 
 This application was created to allow a potential employer to view a deployed react portfolio showing samples of my past work so can decide if they would like to offer an open position. This will allow me to showcase my work and skills.
 
+![image](https://github.com/oreynosa12/2react-portfolio/assets/121472588/c90ec9de-f753-421e-bfe5-56b33fb8b322)
+
 ## Installation
 
 To install the application you will need to clone the repository by using the URL code, once cloned enter npm install followed by npm start.
