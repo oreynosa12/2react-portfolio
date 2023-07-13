@@ -9,11 +9,15 @@
     "react-dom": "^17.0.2",
     "react-scripts": "^1.1.5"
   },
+
+  "homepage": "https://oreynosa12.github.io/2react-portfolio",
   "scripts": {
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -23,7 +27,11 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.8.6",
+    "gh-pages": "^5.0.0",
     "postcss": "^7.0.36",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
   }
+
+  
+
 }
